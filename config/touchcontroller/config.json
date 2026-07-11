@@ -1,0 +1,17 @@
+{
+  "regular": {
+    "disableMouseMove": false,
+    "disableMouseClick": false,
+    "disableHotBarKey": true,
+    "quickHandSwap": true
+  },
+  "control": {
+    "viewHoldDetectThreshold": 0
+  },
+  "preset": {
+    "type": "builtin",
+    "key": {
+      "texture_set": "new"
+    }
+  }
+}

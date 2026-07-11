@@ -1,0 +1,31 @@
+# 忽略所有文件
+*
+
+# 保留以下文件/目录
+!.gitignore
+!AutoTranslationNext/
+!AutoTranslationNext/**
+!config/
+!config/**
+!defaultconfigs/
+!defaultconfigs/**
+!mods/
+!mods/**
+!resourcepacks/
+!resourcepacks/**
+!saves/
+!saves/**
+!shaderpacks/
+!shaderpacks/**
+!tacz/
+!tacz/**
+!servers.dat
+!（暂时）不能升级的模组.md
+!需要被转移到文件（文件夹）.txt
+!options - 副本.txt
+
+# 排除不需要同步的子目录
+mods/.connector/
+mods/.connector/**
+tacz/tacz_default_gun/
+tacz/tacz_default_gun/**

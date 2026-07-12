@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["serilum_mod_translations","vanilla","mod_resources","fabric","tacz_resources","short_grass:shorter_grass","file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip"]
+resourcePacks:["serilum_mod_translations","vanilla","mod_resources","fabric","tacz_resources","file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","file/CozyUI+_v1.8.zip","short_grass:shorter_grass","continuity:glass_pane_culling_fix","continuity:default"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -210,6 +210,7 @@ key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.vanillazoom.togglezoom.desc:key.keyboard.x
+key_key.bridgingmod.toggle_bridging:key.keyboard.comma
 key_key.clickthrough.toggle:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.comma
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
@@ -240,7 +241,6 @@ key_key.tacz.refit.desc:key.keyboard.z
 key_key.tacz.zoom.desc:key.keyboard.v
 key_key.tacz.melee.desc:key.keyboard.v
 key_key.tacz.open_config.desc:key.keyboard.unknown:ALT
-key_key.aeroworks.joystick.free_camera:key.keyboard.left.shift
 key_key.crh.encasing:key.keyboard.left.alt
 key_key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
 key_key.createphantom.open_tunable_portable_ticker:key.keyboard.g
